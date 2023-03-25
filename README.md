@@ -12,7 +12,7 @@
 Труляля, труляля, труляляляля!
 </h1>
 <p>
-(https://github.com/karpov1803/Kotik/blob/main/12809201926143902.gif?raw=true)
+<img src="12809201926143902.gif">
 </P>
 </div>
 КАК СТАТЬ СЧАСТЛИВЫМ.

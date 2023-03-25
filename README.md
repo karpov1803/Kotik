@@ -12,7 +12,7 @@
 Труляля, труляля, труляляляля!
 </h1>
 <p>
-<img src=(https://github.com/karpov1803/Kotik/blob/main/12809201926143902.gif?raw=true)>
+(https://github.com/karpov1803/Kotik/blob/main/12809201926143902.gif?raw=true)
 </P>
 </div>
 КАК СТАТЬ СЧАСТЛИВЫМ.
@@ -23,5 +23,4 @@
 <li>Гладьте котика и при этом говорите "Утю - тю - тю - тю!"
 </ol>
 Вот и всё! Теперь вы счастливые!
-</body>
-</html>
+

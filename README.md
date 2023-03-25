@@ -1,7 +1,7 @@
 # Kotik
 <html>
 <head>
-
+<meta charset="utf-8">
 </head>
 <title>
 Сайт Труляля
